@@ -11,17 +11,17 @@ import java.util.TreeSet;
 public class EquipoDeFutbol {
 
 	/*
-	 * La capacidad máxima de un equipo es 23. Cualquier intento de agregar más
-	 * jugadores generará una excepción (CapacidadMaximaException). Además, no
-	 * deberá permitir duplicar Jugadores (JugadorDuplicadoException).
+	 * La capacidad mï¿½xima de un equipo es 23. Cualquier intento de agregar mï¿½s
+	 * jugadores generarï¿½ una excepciï¿½n (CapacidadMaximaException). Ademï¿½s, no
+	 * deberï¿½ permitir duplicar Jugadores (JugadorDuplicadoException).
 	 */
 	public void agregarJugador(Jugador jugador) throws CapacidadMaximaException, JugadorDuplicadoException {
-
+		primer
 	}
 
 	/*
 	 * Permite cambiar cualquier jugador. Un intento de cambiar un jugador no
-	 * presente en el equipo generará una excepción
+	 * presente en el equipo generarï¿½ una excepciï¿½n
 	 * (JugadoreInexistenteException).
 	 */
 	public Boolean cambiarJugador(Jugador saliente, Jugador entrante) throws JugadoreInexistenteException{
